@@ -1,0 +1,8 @@
+This is a Gnome Shell Extension that will append Application Icons to the Window Clones in Overview.
+
+I remixed this for my needs based on another Extension which you'll find here: 
+https://extensions.gnome.org/extension/302/windowoverlay-icons/
+
+And the Git Repo here:
+https://github.com/sustmi/gnome-shell-extensions-sustmi/tree/master/windowoverlay-icons
+
