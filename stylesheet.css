@@ -1,0 +1,12 @@
+.windowoverlay-application-icon-box {
+    width: 48px;
+    height: 48px;
+}
+
+.windowoverlay-icon-box-wrapper {
+   padding:2px 6px;
+   width:60px;
+   height:60px;
+   -shell-close-overlap:40px;		
+
+}

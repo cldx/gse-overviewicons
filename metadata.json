@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.0", "3.2", "3.4", "3.5", "3.6", "3.6.2"],
+    "uuid": "overlayicons@cldx3000.upinthesky.net",
+    "name": "Overlay Icons",
+    "description": "Add application icons to the Windows Overview",
+    "url": "https://github.com/cldx/gse-overlayicons"
+}
